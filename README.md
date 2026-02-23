@@ -2,6 +2,8 @@
 
 A simple HTTP API that returns current weather for a fixed set of cities. Responses are cached in Redis.
 
+Project idea: [Weather API (roadmap.sh)](https://roadmap.sh/projects/weather-api-wrapper-service)
+
 ## Prerequisites
 
 - **Go** 1.21+ (or the version specified in `go.mod`)
